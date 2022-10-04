@@ -27,9 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;  
 </div>
 
+### :fire: My Stats :
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndorrh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndorrh&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndorrh&show_icons=true&theme=radical)
 
 
 
