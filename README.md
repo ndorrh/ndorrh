@@ -1,4 +1,5 @@
-### I am Ndorrh Oswald Ebu, a Full Stack Developer from Cameroon👋
+### Hello👋
+### I am Ndorrh Oswald Ebu, a Full Stack Developer from Cameroon
 <a href="https://www.linkedin.com/in/ndorrh-oswald-ebu-82ab02236/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
