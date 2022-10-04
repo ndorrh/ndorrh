@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp; 
   </a>
   <a href="https://twitter.com/NdorrhEbu/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="twitter Badge" width="15" height="15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="twitter Badge" width="20" height="30"/>
   </a>
 
   - 🔭 I’m currently working on remote pair-programming projects using <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="15" height="15"/>&nbsp; 
