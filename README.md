@@ -1,10 +1,10 @@
 ### Hello👋
 ### I am Ndorrh Oswald Ebu, a Full Stack Developer from Cameroon
 <a href="https://www.linkedin.com/in/ndorrh-oswald-ebu-82ab02236/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp; 
   </a>
   <a href="https://twitter.com/NdorrhEbu/">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATwitter-logo.svg&psig=AOvVaw28kgmmAZRLT7A3pHVTChZv&ust=1664984644555000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi2wbL1xvoCFQAAAAAdAAAAABAE" alt="twitter Badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="twitter Badge"/>
   </a>
 
   - 🔭 I’m currently working on remote pair-programming projects using <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="15" height="15"/>&nbsp; 
